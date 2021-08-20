@@ -1,0 +1,37 @@
+body{
+
+	background-color: #BA55D3;
+	color: #fff;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1{
+
+color: #480082;
+text-align: center;
+}
+
+h2{
+
+	color: #480082 ;
+}
+
+p{
+
+	font-size: 18px;
+	text-align: justify;
+}
+
+img{
+
+width: 70%;
+
+}
+
+figure{
+
+text-align: center;
+
+	
+}
