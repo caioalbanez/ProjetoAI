@@ -4,6 +4,7 @@ body{
 	color: #fff;
 	margin-left: 10%;
 	margin-right: 10%;
+	font-family: 'Hina Mincho', serif;
 }
 
 h1{
@@ -12,15 +13,16 @@ color: #480082;
 text-align: center;
 }
 
-h2{
+h2,h3{
 
-	color: #480082 ;
+	color: #480082;
 }
 
 p{
 
 	font-size: 18px;
 	text-align: justify;
+	text-indent: 3em;
 }
 
 img{
@@ -34,4 +36,9 @@ figure{
 text-align: center;
 
 	
+}
+
+.negrito{
+
+	font-weight: bold;
 }
